@@ -1,6 +1,6 @@
 {
-  "name": "Jailson Webradio",
-  "short_name": "Jailson Webradio",
+  "name": "Gentleman Radio",
+  "short_name": "GR",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",

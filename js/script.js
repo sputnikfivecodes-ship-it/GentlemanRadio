@@ -1,7 +1,7 @@
-const RADIO_NAME = 'Jailson Web Rádio';
+const RADIO_NAME = 'Gentleman Radio';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/yn65fsaurfhvv';
+const URL_STREAMING = 'http://192.168.15.10:8000/radio.mp3';
 
 //API URL /
 const API_URL = 'https://twj.es/free/?url='+URL_STREAMING;
